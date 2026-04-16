@@ -1,4 +1,4 @@
-# Prova Prática - Git e GitHub (Básico)
+# Prova Prática - Git e GitHub (Básico) DEVOPS
 
 ## Objetivo
 Avaliar se o aluno consegue executar um fluxo básico de trabalho com Git/GitHub e responder perguntas conceituais.
